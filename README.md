@@ -1,1 +1,1 @@
-# sql-notes
+# important miscellaneous topics
